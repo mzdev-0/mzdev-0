@@ -2,7 +2,7 @@
 
 #### 💻 Skills
 
-<img src="https://skillicons.dev/icons?i=python,powershell,bash,go,c,cpp,sqlite,js,ts,vitest,html,ai,aws,gcp,terraform,docker,kubernetes,nginx,nodejs,postgres,py,git,github,cloudflare,postman" />
+<img src="https://skillicons.dev/icons?i=python,powershell,bash,go,c,cpp,sqlite,js,ts,vitest,html,ai,aws,gcp,terraform,docker,kubernetes,nginx,nodejs,postgres,git,github,cloudflare,postman, hono" />
 
 #### 🔨 Workspace
 
