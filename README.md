@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+#### 💻 Skills
+
+<img src="https://skillicons.dev/icons?i=python,powershell,bash,go,c,cpp,sqlite,js,ts,vitest,html,ai,aws,gcp,terraform,docker,kubernetes,nginx,nodejs,postgres,py,git,github,cloudflare,postman" />
+
+#### 🔨 Workspace
+
+<img src="https://skillicons.dev/icons?i=arch,debian,apple,kali,linux,raspberrypi,vim,neovim" />
+
 <!--
 **mzdev-0/mzdev-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
